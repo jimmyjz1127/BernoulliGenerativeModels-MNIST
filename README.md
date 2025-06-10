@@ -2,7 +2,7 @@
 ## Author : Jimmy Zhang
 
 ## Description
-Implements supervised Discriminative and unsupervised Mixture Model generative approaches for MNIST data classification and generation.
+This project explores both **discriminative** and **generative** modeling approaches for classification and unsupervised learning on the MNIST dataset, implemented entirely from scratch in `NumPy` from first principles — no high-level ML libraries. Techniques span supervised naive Bayes and discriminative analysis to unsupervised EM and MCMC for latent mixture modeling.
 
 ## Notebooks
 ### 1 `NaiveBayesClassifier.ipynb`
